@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "425240972818",
+    "project_id": "practicaexamen-d4bc8",
+    "storage_bucket": "practicaexamen-d4bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425240972818:android:68c6db793bc8f4f42352cb",
+        "android_client_info": {
+          "package_name": "comachaves50564.practicaexamensem6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425240972818-d5b4omq6ubbr9puto087gkiooanbod7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comachaves50564.practicaexamensem6",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "425240972818-h04b818dd40c4g1f00bf93l4gfg9qut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDil8bSCQ5ihopozmtGO_Wb_YZsCyIZZIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425240972818-h04b818dd40c4g1f00bf93l4gfg9qut8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425240972818-a4eicl1fe830658jbol47ns28enj5t3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "comachaves50564.practicaexamensem6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
